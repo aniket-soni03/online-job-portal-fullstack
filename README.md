@@ -8,10 +8,10 @@ It allows users to register, authenticate, and manage job postings with real-tim
 ## 📂 Repositories
 
 * 🎨 **Frontend (React + Vite):**
-  [👉 View Frontend Repo](https://github.com/AniketSoni/job-portal-frontend)
+  [👉 View Frontend Repo](https://github.com/aniket-soni03/online-job-portal-frontend)
 
 * ⚙️ **Backend (Spring Boot + MySQL):**
-  [👉 View Backend Repo](https://github.com/AniketSoni/job-portal-backend)
+  [👉 View Backend Repo](https://github.com/aniket-soni03/online-job-portal-backend)
 
 ---
 
